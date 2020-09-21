@@ -14,7 +14,7 @@ const serverlessConfiguration: Serverless = {
       includeModules: true
     }
   },
-  // Add the serverless-webpack plugin
+  // Add the serverless-secure plugin
   plugins: ['serverless-webpack', 'serverless-secure'],
   provider: {
     name: 'aws',

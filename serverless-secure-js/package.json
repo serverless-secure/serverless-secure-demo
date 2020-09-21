@@ -12,8 +12,8 @@
   ],
   "author": "Jason Mullings",
   "license": "MIT",
-  "dependencies": {
-    "serverless-offline": "^6.7.0",
-    "serverless-secure": "git+https://github.com/serverless-secure/serverless-secure.git"
+  "dependencies": {},
+  "devDependencies": {
+    "serverless-secure": "^1.0.1-a-Beta"
   }
 }
